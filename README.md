@@ -46,4 +46,4 @@ El sistema esta diseñado para ser utilizado por el jefe de grupo o por algun di
 Las siguentes caracteristicas se planean implementar en el sistema(Aun no estan implementadas en el diagrama de clases):
 1. Sistema de Campamentos y ubicacion geografica de los mismos: Se planea implementar el registro de campamentos, con su ubicacion, detalles del lugar y archivos relacionados(Fotos del campamento realizado)
 
-2. Gestión de Cuotas de Seguros: ampliar el modulo de seguro para que sea tratado como un seguro tiene cierta candidad de pagos asociados y asi poder ver que scouts estan al dia y quienes adeudan cuotas
+2. Gestión de Cuotas de Seguros: ampliar el modulo de seguro para que sea tratado como un seguro tiene cierta candidad de pagos asociados y asi poder ver que scouts estan al dia y quienes adeudan cuotas(Ya fue implementado en el diagrama de clases)
